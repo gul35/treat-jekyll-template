@@ -1,7 +1,6 @@
 ---
 label: Yemek
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -55,5 +54,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/kek.md
 - _posts/tereyağ.md
+- _posts/kek.md
