@@ -1,9 +1,9 @@
 ---
-date: 2017-01-07
+date: 2017-01-06 21:00:00 +0000
 title: Chocolate Cupcakes
 categories:
-  - Cupcakes
-  - Cakes
+- Cupcakes
+- Cakes
 featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
 recipe:
   servings: 12 cupcakes
@@ -45,6 +45,7 @@ recipe:
     **Icing**
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
+
 ---
 These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
 
